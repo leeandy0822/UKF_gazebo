@@ -1,0 +1,18 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/leeandy/catkin_ws/devel/lib/python2.7/dist-packages",
+        "/home/leeandy/hcc-lab-2021/lab8_9/hcc_ws/devel/lib/python2.7/dist-packages",
+        "/home/leeandy/aerial_robotics/devel/lib/python2.7/dist-packages",
+        "/opt/ros/melodic/lib/python2.7/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/leeandy/catkin_ws/devel/lib/python2.7/dist-packages",
+        "/home/leeandy/hcc-lab-2021/lab8_9/hcc_ws/devel/lib/python2.7/dist-packages",
+        "/home/leeandy/aerial_robotics/devel/lib/python2.7/dist-packages",
+        "/opt/ros/melodic/lib/python2.7/dist-packages"
+    ],
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp"
+    }
+}

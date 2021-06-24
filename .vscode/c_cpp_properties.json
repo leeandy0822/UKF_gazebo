@@ -1,0 +1,35 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/leeandy/catkin_ws/devel/include/**",
+        "/home/leeandy/hcc-lab-2021/lab8_9/hcc_ws/devel/include/**",
+        "/home/leeandy/aerial_robotics/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/leeandy/hcc-lab-2021/lab8_9/hcc_ws/src/vision_opencv-melodic/cv_bridge/include/**",
+        "/home/leeandy/hcc-lab-2021/lab8_9/hcc_ws/src/darknet_ros/darknet_ros/include/**",
+        "/home/leeandy/catkin_ws/src/Homework/finalproject/gps/include/**",
+        "/home/leeandy/catkin_ws/src/Homework/hw11/include/**",
+        "/home/leeandy/catkin_ws/src/Homework/finalproject/path_planner/include/**",
+        "/home/leeandy/hcc-lab-2021/lab8_9/hcc_ws/src/vision_opencv-melodic/image_geometry/include/**",
+        "/home/leeandy/catkin_ws/src/Homework/finalproject/mav_comm/mav_msgs/include/**",
+        "/home/leeandy/catkin_ws/src/Homework/finalproject/mav_comm/mav_planning_msgs/include/**",
+        "/home/leeandy/catkin_ws/src/Homework/finalproject/offb/include/**",
+        "/home/leeandy/catkin_ws/src/Homework/finalproject/plotmap/include/**",
+        "/home/leeandy/catkin_ws/src/Homework/finalproject/plottest/include/**",
+        "/home/leeandy/catkin_ws/src/Homework/finalproject/rotors_simulator/rotors_control/include/**",
+        "/home/leeandy/catkin_ws/src/Homework/finalproject/rotors_simulator/rotors_gazebo_plugins/include/**",
+        "/home/leeandy/catkin_ws/src/Homework/finalproject/rotors_simulator/rotors_hil_interface/include/**",
+        "/home/leeandy/catkin_ws/src/Homework/finalproject/rotors_simulator/rotors_joy_interface/include/**",
+        "/home/leeandy/aerial_robotics/src/usb_cam/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}
